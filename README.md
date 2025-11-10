@@ -1,2 +1,3 @@
 # GNIgetnetworkinfo-TestIPportConnection-IPsubnetcalculator
 GNIgetnetworkinfo + TestIPportConnection + IPsubnetcalculator
+![GNIgetnetworkinfo-TestIPportConnection-IPsubnetcalculator](3_HTML_based_network_tools_.png)
